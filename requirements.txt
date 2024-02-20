@@ -4,3 +4,10 @@ numpy
 scikit-learn
 scikit-learn-intelex
 jupyter
+loguru
+torch==2.0.0
+transformers
+datasets
+accelerate
+pytorch-lightning
+wandb
