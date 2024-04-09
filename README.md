@@ -18,4 +18,4 @@ Solution for garpix project
 
 **Дайджест по статьям.docx** Краткий дайджест по статьям, найденных на arxive.org описывающих проблематику
 
-[Ссылка на презендацию](https://docs.google.com/presentation/d/1_sI7IrhAAIk2bw5wPFpsuhYsnqXsfOg8bLqRxTpM6_g/edit?usp=sharing)
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1_sI7IrhAAIk2bw5wPFpsuhYsnqXsfOg8bLqRxTpM6_g/edit?usp=sharing)
